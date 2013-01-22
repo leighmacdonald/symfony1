@@ -9,6 +9,6 @@
         }
     ],
     "autoload": {
-        "files": ["lib/autoload/sfCoreAutoload.class.php"]
+        "classmap": ["lib/"]
     }
 }
