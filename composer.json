@@ -1,0 +1,14 @@
+{
+    "name": "leighmacdonald/symfony1",
+    "description": "Symfony 1.4 fork with composer support",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Leigh MacDonald",
+            "email": "leigh@cudd.li"
+        }
+    ],
+    "autoload": {
+        "files": ["lib/autoload/sfCoreAutoload.class.php"]
+    }
+}
